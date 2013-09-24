@@ -1,7 +1,6 @@
 {
 	"name": "cviebrock/guzzle-stripbom-plugin",
 	"description": "Plug-in for Guzzle that strips BOMs from server responses",
-	"version": "0.1.3",
 	"homepage": "https://github.com/cviebrock/guzzle-stripbom-plugin",
 	"keywords": ["plugin", "guzzle", "bom", "json", "xml"],
 	"license": "MIT",
