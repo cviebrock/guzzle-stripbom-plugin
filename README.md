@@ -19,7 +19,7 @@ In your code:
 ```php
 $client = new Guzzle\Http\Client('http://example.com');
 
-$client->addSubscriber( new Cviebrock\Guzzle\Plugin\StripBomPlugin() );
+$client->addSubscriber( new Cviebrock\Guzzle\Plugin\StripBom\StripBomPlugin() );
 
 $request = $client->get('some/request');
 
