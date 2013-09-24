@@ -1,4 +1,4 @@
-<?php namespace Cviebrock\Guzzle\Plugin;
+<?php namespace Cviebrock\Guzzle\Plugin\StripBom;
 
 
 use Guzzle\Common\Event;
