@@ -10,7 +10,7 @@ In your project's `composer.json` file:
 
 ```
 	"require": {
-		"cviebrock/guzzle-stripbom-plugin": "1.0.*",
+		"cviebrock/guzzle-stripbom-plugin": "0.1.*",
 	}
 ```
 
