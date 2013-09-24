@@ -2,6 +2,6 @@ Changelog
 =========
 
 
-## v1.0.0 - 23-Sep-2013
+## v1.0.1 - 23-Sep-2013
 
 - initial release
